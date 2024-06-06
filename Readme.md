@@ -2,10 +2,6 @@
 
 I'm a Frontend Developer from Brazil, passionate about programming.
 
-<summary>
-  More stuff about me
-</summary>
-
 ## Quick overview
 
 #### GitHub stats
