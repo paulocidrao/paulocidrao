@@ -11,7 +11,7 @@ I'm a Frontend Developer from Brazil, passionate about programming.
 
 ### What I do
 
-I'm currently working at [CompassUOL](compass.uol/pt). I make solutions to give more performance to frontend applications and I create innovative applications to improve people's lives.
+I'm currently unemployed.
 
 ## My skills 📜
 
