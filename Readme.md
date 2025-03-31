@@ -22,13 +22,18 @@ I'm currently unemployed.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  height="60px" width="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="60px" width="60"/>
 <img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" height="60px" width="60" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="60px" width="60"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" height="60px" width="60"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" height="60px" width="60">          
 <img src="https://playwright.dev/img/playwright-logo.svg" height="60px" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60px" width="60" />
+          
+  
 </div>
 
 ## What I'm currently learning 📚
 
-- Tailwind;
+- Node.js
+- PostgressSQL
 - Vuejs;
 - React Native;
 - Page Performance.
