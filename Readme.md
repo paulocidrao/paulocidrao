@@ -34,8 +34,7 @@ I'm currently unemployed.
 
 - Node.js
 - PostgressSQL
-- Vuejs;
-- React Native;
+- Next.js;
 - Page Performance.
 
 ## Contact
